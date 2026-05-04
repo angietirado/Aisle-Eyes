@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.pt
+*.onnx
+*.mp4
+!demo/.gitkeep
+*.csv
+.ipynb_checkpoints/
+
+# Generated analysis outputs
+*_aisle_eyes.csv
+*_aisle_eyes.mp4
+*_aisle_eyes_table.*
+test_*.mp4
+test_*.csv
